@@ -114,26 +114,26 @@
         <div class="marquee-container" data-aos="fade-up" data-aos-delay="100">
             <div class="marquee-content">
                 <span class="marquee-pill"> Laravel</span>
-                <span class="marquee-pill"> Node.js</span>
+                <span class="marquee-pill"> Microsoft Office</span>
                 <span class="marquee-pill"> SQL & BigQuery</span>
                 <span class="marquee-pill"> HTML & CSS</span>
                 <span class="marquee-pill"> Looker Studio</span>
                 <span class="marquee-pill"> JavaScript</span>
-                <span class="marquee-pill"> Data Mining</span>
-                <span class="marquee-pill"> Algorithms</span>
-                <span class="marquee-pill"> Computer Networks</span>
-                <span class="marquee-pill"> Photo Restoration</span>
+                <span class="marquee-pill"> PHP</span>
+                <span class="marquee-pill"> Laragon</span>
+                <span class="marquee-pill"> Canva</span>
+                <span class="marquee-pill"> Python</span>
                 
                 <span class="marquee-pill"> Laravel</span>
-                <span class="marquee-pill"> Node.js</span>
+                <span class="marquee-pill"> Microsoft office</span>
                 <span class="marquee-pill"> SQL & BigQuery</span>
                 <span class="marquee-pill"> HTML & CSS</span>
                 <span class="marquee-pill"> Looker Studio</span>
                 <span class="marquee-pill"> JavaScript</span>
-                <span class="marquee-pill"> Data Mining</span>
-                <span class="marquee-pill"> Algorithms</span>
-                <span class="marquee-pill"> Computer Networks</span>
-                <span class="marquee-pill"> Photo Restoration</span>
+                <span class="marquee-pill"> PHP</span>
+                <span class="marquee-pill"> Laragon</span>
+                <span class="marquee-pill"> Canva</span>
+                <span class="marquee-pill"> Python</span>
             </div>
         </div>
     </div>
